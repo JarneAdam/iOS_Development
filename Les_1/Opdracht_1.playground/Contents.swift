@@ -1,3 +1,5 @@
-import UIKit
+//Deel 1: The basics
 
-var greeting = "Hello, playground"
+var text = "SWIFT"
+let max = 10
+var average = 0.0
