@@ -15,3 +15,16 @@ print(naam.familienaam)
 
 var reversedString: String? = nil
 
+if let reversedString = reversedString{
+    print(reversedString)
+} else{
+    print("no result")
+}
+
+reversedString = "seviV"
+
+if let reversedString = reversedString{
+    print(reversedString)
+} else{
+    print("no result")
+}
